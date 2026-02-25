@@ -267,7 +267,6 @@ class Doctor extends Survivor {
         System.out.println(doctor);
     }
 }
-
 // 监管者动作类
 class HunterBehaviour {
 
